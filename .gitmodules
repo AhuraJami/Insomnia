@@ -1,0 +1,3 @@
+[submodule "Insomnia/ThirdParty/Pixie"]
+	path = Insomnia/ThirdParty/Pixie
+	url = https://github.com/AhuraJami/Pixie.git
